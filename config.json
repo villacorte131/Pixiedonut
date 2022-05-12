@@ -1,0 +1,9 @@
+{
+	"ip":"Pixiedonut.aternos.me",
+	"port": "24310",
+	"name": "Pixiedonut"
+        "auto-night-skip": "false",
+        "loginmsg": "Im Back!",
+        "auto-reconnect": "true",
+        "web": "true"
+}
